@@ -5,7 +5,7 @@
   </head>
   <body>
      <h1>OpenAI Chatbot - Gigadevden</h1>
-    <img src="https://github.com/ALI-RUBASS/weather-app-using-reactjs/blob/main/preview.png" alt="Weather App Preview">
+    <img src="https://github.com/ALI-RUBASS/openai-chatbot-using-reactjs/blob/main/preview.png" alt="Chatbot Preview">
     <p>Preview: <a href="https://gigadevden.com/chat.den.ai">gigadevden.com/chat.den.ai</a></p>
   </body>
 </html>

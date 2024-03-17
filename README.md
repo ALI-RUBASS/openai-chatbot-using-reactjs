@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+     <h1>OpenAI Chatbot - Gigadevden</h1>
+    <img src="https://github.com/ALI-RUBASS/weather-app-using-reactjs/blob/main/preview.png" alt="Weather App Preview">
+    <p>Preview: <a href="https://gigadevden.com/chat.den.ai">gigadevden.com/chat.den.ai</a></p>
+  </body>
+</html>
+ 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
